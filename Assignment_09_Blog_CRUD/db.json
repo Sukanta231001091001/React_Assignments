@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Architecting Scalable Micro-Frontends with React & Vite",
+      "author": "Sophia Martinez",
+      "content": "Micro-frontends decompose monolithic frontend applications into smaller, independently deliverable apps. In this post, we explore how React and Vite enable module federation, isolated state management, and optimized bundling strategies for enterprise teams.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=800",
+      "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "2",
+      "title": "Mastering Asynchronous State with Axios and Custom Hooks",
+      "author": "Alex Morgan",
+      "content": "Managing RESTful API calls cleanly in React requires proper lifecycle orchestration. We discuss how Axios interceptors, cancellation tokens, error boundaries, and custom hooks simplify data fetching.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80&w=800",
+      "video": "",
+      "date": "2026-09-14"
+    }
+  ]
+}
